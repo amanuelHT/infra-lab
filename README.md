@@ -1,4 +1,4 @@
-# infra-lab (En liten linux drift prosjekt)
+# infra-lab (linux drift prosjekt)
 
 - **Linux serverdrift**
 - **Apache + PHP** som portal-front
